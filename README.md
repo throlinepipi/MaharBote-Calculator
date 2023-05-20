@@ -1,8 +1,10 @@
 # MaharBote-Calculator
 C++ Program for MaharBote.
 <br/>
-MaharBote is a Burmese Astrological System of Birthday Astrology.
+MaharBote is an ancient Burmese astrological system that is used for determining astrological information based on an individual's birthdate. 
 <br/>
-In this program, the user have to submit the birthday and the program will calculate and show the user's birthday in Burmese year and calculate what house the user was in.
+In this program, the user has to submit their birthdate, and the program will calculate and display the user's birthday in the traditional Burmese year format. 
 <br/>
-Depending on the house, the burmese fortune tellers could predict the individual future, personality and traits.
+ It will also determine the house the user was born in.
+ <br/>
+Based on the house, Burmese fortune tellers can predict an individual's future, personality, and traits.
